@@ -331,7 +331,7 @@ export default function Skills() {
                     <span className="stat-label">Skills</span>
                   </div>
                   <div className="stat">
-                    <span className="stat-value">4+</span>
+                    <span className="stat-value">0-1</span>
                     <span className="stat-label">Years Exp</span>
                   </div>
                 </div>
