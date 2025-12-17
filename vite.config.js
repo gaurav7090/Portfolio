@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/Portfolio/',   // 🔥 GitHub repo name (case-sensitive)
 })
