@@ -1,0 +1,28 @@
+{
+  "name": "Gaurav Kumar",
+  "role": "Software Engineer",
+  "location": "Vadodara, India",
+
+  "skillsWithLevel": [
+    { "name": "React", "level": 85 },
+    { "name": "Redux", "level": 80 },
+    { "name": "JavaScript", "level": 90 },
+    { "name": "Python", "level": 75 },
+    { "name": "SQL", "level": 70 }
+  ],
+
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "Personal portfolio built using React, Redux and Vite",
+      "tech": "React, Redux, Bootstrap",
+      "github": "https://github.com/gaurav7090"
+    },
+    {
+      "title": "Student Management System",
+      "description": "CRUD based web app",
+      "tech": ".NET, SQL",
+      "github": "#"
+    }
+  ]
+}
